@@ -1,0 +1,19 @@
+# Runtime log written by the mod next to the DLLs
+*.log
+
+# Local build output / IDE files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.obj
+*.exp
+*.lib
+
+# The drop-in binaries are distributed through Releases, not committed here.
+# Uncomment the next two lines if you build them inside your working copy and
+# do not want them tracked.
+# xinput1_3.dll
+# DynamicKeyPrompts/
